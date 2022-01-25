@@ -1,6 +1,7 @@
 ## Hey, this is us 👋
 
-![XXX](https://github.com/Ci2Lab/.github/profile/background.jpg)
+![XXX](background.jpg)
+
 
 The Connectivity, Information & Intelligence Lab (Ci2Lab), directed by Professor Reza Arghandeh, has a simple goal: explain infrastructure networks with data analytics. 
 Our research focuses on the intersection of machine learning, causal inference, and complex networks. 
